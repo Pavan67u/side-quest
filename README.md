@@ -10,7 +10,7 @@ Unlike platforms focused mainly on long-term groups, followers, or dating, SideQ
 
 People often want to try something or make plans but don't have enough friends available, don't know who else is interested, or struggle to discover spontaneous local activities.
 
-## How It Works
+## How It Works#
 
 1. **Discover** activities nearby or by interest.
 2. **Create or join** a quest with a time, place, budget, and available spots.
