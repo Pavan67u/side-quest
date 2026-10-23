@@ -1,0 +1,14 @@
+{
+  "name": "sidequest",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:web": "npm run dev --workspace=apps/web",
+    "dev:mobile": "npm run start --workspace=apps/mobile",
+    "typecheck:shared": "tsc --noEmit -p packages/shared/tsconfig.json"
+  }
+}
